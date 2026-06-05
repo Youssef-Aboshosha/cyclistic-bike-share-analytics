@@ -1,0 +1,25 @@
+# Ignore raw large data files
+data/raw/
+*.csv
+*.zip
+*.rar
+*.parquet
+
+# Ignore Python environment and cache
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Ignore all data files with no extensions (Parquet files)
+data_cleaned
+data_feature
+data_prepared
+date_cleaned
+
+# Ignore the raw datasets folder
+Cyclistic-dataset/
+
+# Ignore system cache
+.ipynb_checkpoints/
+__pycache__/

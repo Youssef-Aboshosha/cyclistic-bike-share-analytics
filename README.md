@@ -403,12 +403,7 @@ Annual members concentrate rides during weekday commute windows — an underserv
 | Most Popular Bike Type (Summer) | — |
 | Weekend Revenue Leakage Estimate | — |
 
----
-
-## 📄 License
-
-This project is built for educational and portfolio purposes as part of the **Google Data Analytics Professional Certificate** capstone.
 
 ---
 
-*Built with Oracle SQL · Python · Jupyter · Kimball Dimensional Modeling*
+*Built with  SQL · Python · Jupyter · Power BI · Kimball Dimensional Modeling*
